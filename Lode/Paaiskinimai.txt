@@ -1,0 +1,8 @@
+Zaidimo valdymas:
+ Vaiksdiojimas vyksta su rodyklemis
+ Duobes kasamos Z mygtuku (kaireje) arba X mygtuku (desineje)
+Zaidimo esme: surinkti visas dezutes, kiekvienas priesas nesiojasi po dezute,
+kuria pameta tik ikritus i duobe
+
+Kai surenkamos visos dezutes zaidimo lango virsuje atsiranda kopecios.
+Jomis uzlipus - laimima.
